@@ -26,6 +26,9 @@
 
 [9] Chaque taches est  un `issue`, chaque `issue` est assigné à un membre, chaque `label` est un descriptif de votre tache.
 
+[10] Assurez la communication via `Discord` Liée avec `GitHub` à travers `webhooks`.
+
+
 ## Where to find everything
 
  __Sur le dossier `/wireframe-low-fidelity` vous trouverez ce que le client exige (wireframe low fidelity).

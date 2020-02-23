@@ -25,7 +25,6 @@ Utilisez les unités : em et Rem. n'utilisez plus les pixels.
 
 - H4 :  font-size: 1.6rem;
 
-
 ## Icons
 
 les liens des icons utilisés :
